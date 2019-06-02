@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "28da64cb4eeabdec6b6c640832a462f13a9e76768e244612daf0a8ad6b314ecb"
+            "sha256": "75a866cedead82cf27bc45a7bebc82927ae30009d212981cf7ebfec5d9fdc250"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -79,7 +79,7 @@
         },
         "mdoctag": {
             "git": "https://github.com/srymh/MkdocsTagPlugin.git",
-            "ref": "80114b6b81a47b06ccef67daea7caf8f9a8fcaed"
+            "ref": "0747545d954fc3a66ba5f0130bce4adc8d1189cc"
         },
         "mkdocs": {
             "hashes": [

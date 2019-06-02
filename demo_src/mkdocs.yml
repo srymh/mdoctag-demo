@@ -1,5 +1,6 @@
 site_name: My Tech Docs
 # use_directory_urls: true
+site_url: https://srymh.github.io/mdoctag-demo/
 theme:
   name: 'material'
   custom_dir: 'theme'
