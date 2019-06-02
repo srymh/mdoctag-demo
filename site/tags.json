@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Home",
+    "file_name": "index",
+    "url": "/.",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "sample",
+    "file_name": "sample",
+    "url": "/sample/",
+    "tags": [
+      "hoge",
+      "foo"
+    ],
+    "description": "this is a sample"
+  },
+  {
+    "title": "sample2",
+    "file_name": "sample2",
+    "url": "/sample2/",
+    "tags": [
+      "hoge"
+    ],
+    "description": "this is also a sample"
+  },
+  {
+    "title": "Tag: foo",
+    "file_name": "foo",
+    "url": "/tags/foo/",
+    "tags": [],
+    "description": []
+  },
+  {
+    "title": "Tag: hoge",
+    "file_name": "hoge",
+    "url": "/tags/hoge/",
+    "tags": [],
+    "description": []
+  }
+]

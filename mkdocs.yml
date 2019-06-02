@@ -1,0 +1,17 @@
+site_name: My Tech Docs
+# use_directory_urls: true
+theme:
+  name: 'material'
+  custom_dir: 'theme'
+  palette:
+    primary: 'Teal'
+    accent: 'Amber'
+  language: 'ja'
+  feature:
+    tabs: true
+plugins:
+  - search:
+      # separator: '[\s\-]+'
+  - mdoctag:
+      tagpage_dir: 'tags'
+      data_filename: 'tags.json'

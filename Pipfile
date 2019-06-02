@@ -1,0 +1,21 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pylint = "*"
+autopep8 = "*"
+
+[packages]
+mdoctag = {git = "https://github.com/srymh/MkdocsTagPlugin.git"}
+mkdocs = "*"
+mkdocs-material = "*"
+pymdown-extensions = "*"
+
+[requires]
+python_version = "3.7"
+
+[scripts]
+mkdocs-serve = "mkdocs serve"
+mkdocs-build = "mkdocs build"
