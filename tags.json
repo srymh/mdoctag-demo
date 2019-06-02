@@ -2,14 +2,14 @@
   {
     "title": "Home",
     "file_name": "index",
-    "url": "/.",
+    "url": "https://srymh.github.io/mdoctag-demo/",
     "tags": [],
     "description": []
   },
   {
     "title": "sample",
     "file_name": "sample",
-    "url": "/sample/",
+    "url": "https://srymh.github.io/mdoctag-demo/sample/",
     "tags": [
       "hoge",
       "foo"
@@ -19,7 +19,7 @@
   {
     "title": "sample2",
     "file_name": "sample2",
-    "url": "/sample2/",
+    "url": "https://srymh.github.io/mdoctag-demo/sample2/",
     "tags": [
       "hoge"
     ],
@@ -28,14 +28,14 @@
   {
     "title": "Tag: foo",
     "file_name": "foo",
-    "url": "/tags/foo/",
+    "url": "https://srymh.github.io/mdoctag-demo/tags/foo/",
     "tags": [],
     "description": []
   },
   {
     "title": "Tag: hoge",
     "file_name": "hoge",
-    "url": "/tags/hoge/",
+    "url": "https://srymh.github.io/mdoctag-demo/tags/hoge/",
     "tags": [],
     "description": []
   }

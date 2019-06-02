@@ -8,10 +8,10 @@ pylint = "*"
 autopep8 = "*"
 
 [packages]
-mdoctag = {git = "https://github.com/srymh/MkdocsTagPlugin.git"}
 mkdocs = "*"
 mkdocs-material = "*"
 pymdown-extensions = "*"
+mdoctag = {git = "https://github.com/srymh/MkdocsTagPlugin.git"}
 
 [requires]
 python_version = "3.7"
