@@ -1,1 +1,3 @@
-look at demo_src/
+page: https://srymh.github.io/mdoctag-demo/
+
+src: demo_src/
